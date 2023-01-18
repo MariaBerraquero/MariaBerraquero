@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Maria</a></h1>
+<h3 align="center">A Data Analyst & Science student
+<br/>
+<br/>
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Cs7jNpQ/920acfd895c2d678d468bac05d84c90c.gif" alt="920acfd895c2d678d468bac05d84c90c" border="0" width="300" height=auto></a>
+  
+<h4 align='left'>
+  
+- 🔭 I’m currently studying a Data Science Bootcamp @ <a href="https://keepcoding.io/sobre-nosotros/" target="blank">KeepCoding</a>
 
-<!--
-**MariaBerraquero/MariaBerraquero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning R & Data Mining
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Stadistic & Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **mariaberraq.py@gmail.com**
+
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/mariaberraq/" target="blank">Resume</a>
+<br/>
+---
+
+Credit: [Maria Berraquero](https://github.com/MariaBerraquero)
