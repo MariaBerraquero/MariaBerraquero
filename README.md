@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</a></h1>
-<h3 align="center">A Data Analyst & Science student
+<h3 align="center">A Data Science & Analyst student
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MariaBerraquero&label=Profile%20views&color=3b8e8f&style=flat" alt="MariaBerraquero" /> </p>
