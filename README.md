@@ -1,3 +1,4 @@
+<body>
 <h1 align="center">Hi 👋, I'm Maria</a></h1>
 <h3 align="center">A Data Science & Analyst student
 <br/>
@@ -21,3 +22,4 @@
 ---
 
 Credit: [Maria Berraquero](https://github.com/MariaBerraquero)
+</body>
