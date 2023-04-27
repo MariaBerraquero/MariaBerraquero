@@ -1,7 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
-body {font-family: 'Roboto Mono', monospace;}
-</style>
+<html>
 <body>
 <h1 align="center">Hi 👋, I'm Maria</a></h1>
 <h3 align="center">A Data Science & Analyst student
@@ -27,3 +24,4 @@ body {font-family: 'Roboto Mono', monospace;}
 
 Credit: [Maria Berraquero](https://github.com/MariaBerraquero)
 </body>
+</html>
